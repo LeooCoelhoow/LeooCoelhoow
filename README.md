@@ -1,6 +1,6 @@
 # Olá, me chamo Leonardo 👋
 
-### 🚀 Desenvolvedor Fullstack & Designer
+### 👨‍💻 Desenvolvedor Fullstack & Designer
 
 ## Formação FullStack na Rocketseat 🚀 
 
@@ -10,7 +10,7 @@
 
 ## 🛠️ Minha Stack
 - **Frontend:** React, React Native, JavaScript (ES6+).
-- **Backend:** Node.js, Git, PostgreSQL
+- **Backend:** Node.js, Git, PostgreSQL, Prisma, Express.
 - **Design & 3D:** Figma, Adobe Illustrator, Blender.
 
 ## 🐇 Projetos Atuais
