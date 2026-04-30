@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, me chamo Leonardo 👋
 
-<!--
-**LeooCoelhoow/LeooCoelhoow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desenvolvedor Fullstack & Designer
 
-Here are some ideas to get you started:
+## Formação FullStack na Rocketseat 🚀 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente cursando o 2º semestre de Análise e Desenvolvimento de Sistemas. Tenho um forte background em Design, o que me permite criar interfaces funcionais e visualmente atraentes.
+
+---
+
+## 🛠️ Minha Stack
+- **Frontend:** React, React Native, JavaScript (ES6+).
+- **Backend:** Node.js, Git, PostgreSQL
+- **Design & 3D:** Figma, Adobe Illustrator, Blender.
+
+## 🐇 Projetos Atuais
+- **Site Diamond Lepus:** Minha marca de impressão 3D que estou iniciando.
+- **AppAgendamento(LDBeauty):** Um app que possui tela de usuário e de ADM para controle de agendamentos e relatórios financeiros.
+
+## 📊 Estatísticas do GitHub
+![LeooCoelhoow's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![JS](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
+---
+
+## 📫 Vamos nos conectar?
+- [LinkedIn](www.linkedin.com/in/leoocoelhoodeoliveira)
