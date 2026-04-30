@@ -17,10 +17,6 @@
 - **Site Diamond Lepus:** Minha marca de impressão 3D que estou iniciando.
 - **AppAgendamento(LDBeauty):** Um app que possui tela de usuário e de ADM para controle de agendamentos e relatórios financeiros.
 
-## 📊 Estatísticas do GitHub
-![LeooCoelhoow's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![JS](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Vamos nos conectar?
