@@ -21,3 +21,4 @@
 
 ## 📫 Vamos nos conectar?
 - [LinkedIn](www.linkedin.com/in/leoocoelhoodeoliveira)
+- [E-MAIL](leoocoelhoow06@gmail.com)
