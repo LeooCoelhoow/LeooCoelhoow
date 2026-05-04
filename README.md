@@ -10,7 +10,7 @@
 
 ## 🛠️ Minha Stack
 - **Frontend:** React, React Native, JavaScript (ES6+).
-- **Backend:** Node.js, Git, PostgreSQL, Prisma, Express.
+- **Backend:** Node.js, Git, Docker, PostgreSQL, Prisma, Express.
 - **Design & 3D:** Figma, Adobe Illustrator, Blender.
 
 ## 🐇 Projetos Atuais
