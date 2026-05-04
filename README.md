@@ -20,5 +20,5 @@
 ---
 
 ## 📫 Vamos nos conectar?
-- [LinkedIn](www.linkedin.com/in/leoocoelhoodeoliveira)
-- [E-MAIL](leoocoelhoow06@gmail.com)
+- LinkedIn: www.linkedin.com/in/leoocoelhoodeoliveira
+- e-mail: leoocoelhoow06@gmail.com
