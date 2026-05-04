@@ -14,7 +14,7 @@
 - **Design & 3D:** Figma, Adobe Illustrator, Blender.
 
 ## 🐇 Projetos Atuais
-- **Site Diamond Lepus:** Minha marca de impressão 3D que estou iniciando.
+- **Site Diamond Lepus:** Minha marca de impressão 3D que estou iniciando, onde há o catálogo de itens para venda, sobre...
 - **AppAgendamento(LDBeauty):** Um app que possui tela de usuário e de ADM para controle de agendamentos e relatórios financeiros.
 
 ---
